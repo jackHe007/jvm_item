@@ -1,5 +1,7 @@
 # 运行时数据区
 
+![image](https://github.com/jackHe007/jvm_item/blob/master/img/JAVA%20SE%207%20%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%8C%BA%E5%9F%9F%E5%9B%BE.png)
+
 
 1、程序计数器（Program Counter Register）
 是一块较小的内存空间，它可以看作是当前线程所执行的字节码的行号指示器。在虚拟机的概念模型里，字节码解释器工作时就是通过改变这个计数器的值来选取下一条执行字节码指令
